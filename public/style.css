@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 50px;  
+}
+
